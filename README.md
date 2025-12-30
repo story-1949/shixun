@@ -2,6 +2,15 @@
 
 一个Java桌面应用程序，展示五种经典设计模式的实际应用。
 
+## 📦 快速开始
+
+### 克隆项目到本地
+
+```bash
+git clone https://github.com/story-1949/shixun.git
+cd shixun
+```
+
 ## 🎯 项目特点
 
 - **简洁清晰**：代码结构清晰，易于理解
